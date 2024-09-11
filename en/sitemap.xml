@@ -100,6 +100,20 @@
                 href="https://davydov27.github.io/post/summary2/"
                 />
   </url><url>
+    <loc>https://davydov27.github.io/post/123/</loc>
+    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://davydov27.github.io/ru/post/123/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://davydov27.github.io/post/123/"
+                />
+  </url><url>
     <loc>https://davydov27.github.io/post/summary1/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
